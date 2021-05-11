@@ -1,1 +1,4 @@
-# we-study-robotics-
+# Изучаем робототехнику
+arduino
+lego-python
+openmv
